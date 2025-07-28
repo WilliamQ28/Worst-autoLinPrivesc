@@ -1,1 +1,1 @@
-https://github.com/swapravo/polkadots
+curl -L https://github.com/swapravo/polkadots
