@@ -34,6 +34,9 @@ chmod +x c2.sh
 ./c2.sh --ip <kali-ip> --port 80
 ```
 
+<img width="932" height="527" alt="image" src="https://github.com/user-attachments/assets/c523167c-c43b-45fb-a9d6-4e34269fc674" />
+
+
 ## Folder Structure
 
 ```
